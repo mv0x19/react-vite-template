@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+
+# Vite cache directory
+.vite/
+
+# Editor settings
+.vscode/
+.idea/
+.history/
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local

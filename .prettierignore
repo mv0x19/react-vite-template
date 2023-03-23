@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+
+# Vite cache directory
+.vite/
+
+# npm lock file
+package-lock.json
